@@ -1,0 +1,15 @@
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.exe
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.deps.json
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.runtimeconfig.json
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.dll
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\bin\Debug\net7.0\GeometryExample.pdb
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.AssemblyInfoInputs.cache
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.AssemblyInfo.cs
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.dll
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\refint\GeometryExample.dll
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.pdb
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\GeometryExample.genruntimeconfig.cache
+C:\Users\Quan68\source\repos\GeometryExample\GeometryExample\obj\Debug\net7.0\ref\GeometryExample.dll
