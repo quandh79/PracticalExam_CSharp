@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GeometryExample.exercise2
+{
+    public class Animal
+    {
+        public double weight;
+        public string name;
+
+        public Animal(double weight, string name)
+        {
+            this.weight = weight;
+            this.name = name;
+        }
+
+        public virtual void Show()
+        {
+            Console.WriteLine("Weight: " + weight);
+            Console.WriteLine("Name: " + name);
+        }
+
+        public void SetMe(double weight, string name)
+        {
+            this.weight = weight;
+            this.name = name;
+        }
+    }
+
+    
+}
