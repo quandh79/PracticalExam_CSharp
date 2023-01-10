@@ -31,9 +31,8 @@ namespace GeometryExample.exercise1
         public double Volume { get; private set; }
         public string Result()
         {
-            Console.WriteLine("radius: " + radius);
-            Console.WriteLine("height: " + height);
-            return "Base Area: " + Math.Round(BaseArea, 2) + "\n" +
+            
+            return "radius: " + radius + "\n" + "height: " + height + "\n" + "Base Area: " + Math.Round(BaseArea, 2) + "\n" +
                     "Lateral Area: " + Math.Round(LateralArea, 2) + "\n" +
                     "Total Area: " + Math.Round(TotalArea, 2) + "\n" +
                     "Volume: " + Math.Round(Volume, 2);
