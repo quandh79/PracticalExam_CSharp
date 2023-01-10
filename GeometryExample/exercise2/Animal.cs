@@ -8,8 +8,8 @@ namespace GeometryExample.exercise2
 {
     public class Animal
     {
-        public double weight;
-        public string name;
+        public double weight { get; set; }
+        public string name { get; set; }
 
         public Animal(double weight, string name)
         {
